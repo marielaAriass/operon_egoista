@@ -1,1 +1,1 @@
-# operon_egoista
+# Modelo de Roth y Lawrence-Operón egoísta
